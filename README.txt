@@ -1,4 +1,4 @@
-Authors: Angelo Borsotti
+Author: Angelo Borsotti <angelo.borsotti@gmail.com>
 
 This program contains the implementation of the attribute-precedence-relation grammar algorithm, as described in the paper: 
 Attribute-Based Precedence Relations for Free-Form Grammars

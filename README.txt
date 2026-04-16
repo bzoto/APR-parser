@@ -1,10 +1,10 @@
 Authors: Angelo Borsotti
 
-This program contains the implementation of the new operator precedence grammar algorithm,
-the web version, as described in the paper: New precedence relations from operator to free form
-grammars, Angelo Borsotti, Stefano Crespi Reghizzi, and Matteo Pradella1.
+This program contains the implementation of the attribute-precedence-relation grammar algorithm, as described in the paper: 
+Attribute-Based Precedence Relations for Free-Form Grammars
+by Angelo Borsotti, Stefano Crespi Reghizzi, and Matteo Pradella (ICTCS 2025)
+The paper is available here:
+https://ceur-ws.org/Vol-4039/paper03.pdf
 
 Installation
-
-    There is no need to install it, the program can be run directly from Firefox
-    once the compressed package has been uncompressed in a folder.
+    There is no need to install it, the program can be run directly from any browser.
